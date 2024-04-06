@@ -17,15 +17,15 @@ For Example:
 ### Python Numbers
 1. Integer
    
-Integers do not have decimals and can be any length as long as the necessary memory is available.
-3. Float
+   Integers do not have decimals and can be any length as long as the necessary memory is available.
+2. Float
 
-Floating point numbers are those that contain decimals.
-4. Complex
+   Floating point numbers are those that contain decimals.
+3. Complex
 
-Complex numbers (as in mathematics) take the form `a + bj`, where:
-- `a` represents the real part
-- `b` represents the imaginary part
+   Complex numbers (as in mathematics) take the form `a + bj`, where:
+   - `a` represents the real part
+   - `b` represents the imaginary part
 
 ### Python Boolean
 Boolean data type has two values: `True` and `False`. These two values are also Python's reserved keywords.

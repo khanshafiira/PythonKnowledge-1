@@ -13,7 +13,7 @@ For Example:
 - x = 5
 
 ## Introducing to Python Data Types
-#Python Numbers
+# Python Numbers
 1. Integer
 Integers do not have decimals and can be any length as long as the necessary memory is available.
 2. Float
@@ -23,4 +23,4 @@ Complex numbers (as in mathematics) take the form `a + bj`, where:
 - `a` represents the real part
 - `b` represents the imaginary part
 
-#Python Boolean
+# Python Boolean

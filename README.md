@@ -1,6 +1,6 @@
 # Python for Beginner
 If you are curious about Python programming and want to learn more about it, sure, you can browse this page!
-This README will provide you a clear grasp of some important data types in Python, making your learning experience more enjoyable and straightforward.
+This README will provide you a clear grasp of some important fundamental in Python, making your learning experience more enjoyable and straightforward.
 
 Happy growing!
 
@@ -9,6 +9,18 @@ A variable is a placeholder for data that Python can remember later in the codin
 
 To make a value in a variable, the `=` operator can be used between the variable name and the value to be stored.
 For Example:
-- `x = "blueberry"`
-- `x = 5`
+- x = "blueberry"
+- x = 5
+
 ## Introducing to Python Data Types
+#Python Numbers
+1. Integer
+Integers do not have decimals and can be any length as long as the necessary memory is available.
+2. Float
+Floating point numbers are those that contain decimals.
+3. Complex
+Complex numbers (as in mathematics) take the form `a + bj`, where:
+- `a` represents the real part
+- `b` represents the imaginary part
+
+#Python Boolean
